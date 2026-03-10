@@ -56,7 +56,7 @@ I am an independent NLP researcher and developer seeking to align Large Language
 
 ### 4. 🌫️ [PM2.5-Allergy-Monitoring-ML](https://github.com/AlexHirsch-eng/Research-Paper-for-DKU)
 *Presented at XVIII International Student Conference, DKU*
-* 🔑 **Impact:** Applied mixed-methods ML to correlate atmospheric particulate matter with public health metrics in Almaty.
+* 🔑 **Impact:** Applied mixed methods ML to correlate atmospheric particulate matter with public health metrics in Almaty.
 
 ---
 
