@@ -71,7 +71,7 @@ I am an independent NLP researcher and developer seeking to align Large Language
 
 ## 🛠️ Leadership & Applied Problem Solving
 
-* 📱 **EdTech Startup Founder:** Re-engineering language acquisition by replacing static modules with a TikTok-style, ML-curated video platform.
+* 📱 **EdTech Startup Founder:** Re-engineering language acquisition by replacing static modules with a TikTok-style, ML-curated video platform
 * 🧩 **Lead Instructor, Cube Club:** Founded a school-wide initiative (grades 8-9) teaching mechanical puzzle solving (25+ variants) to develop raw algorithmic and spatial intelligence.
 * 🎵 **Traditional Arts (Dombra) Mentor:** Two-year mentorship program demonstrating a commitment to preserving indigenous cultural heritage alongside modern technological advancement.
 
