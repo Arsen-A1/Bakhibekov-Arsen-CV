@@ -37,7 +37,7 @@ I am an independent NLP researcher and developer seeking to align Large Language
 ---
 
 ## 🚀 Selected Research & Technical Portfolios
-*(Click the repository links to view abstracts, architecture diagrams, and full project metadata)*
+*(Click the repository links to view abstract, architecture diagrams, and full project metadata)*
 
 ### 1. 🌍 [Cross-Lingual-LLM-Bias](https://github.com/AlexHirsch-eng/research_1) *(Independent Research)*
 *Investigating behavioral divergence in open-source LLMs (Llama 3, Jais 30B).*
